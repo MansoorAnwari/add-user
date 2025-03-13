@@ -1,6 +1,6 @@
 import { v4 as uuidv4 } from "uuid";
 
-import "./index.css";
+import './index.css';
 
 type Item = {
   id: string;
